@@ -1,0 +1,6 @@
+{
+    "searchPlaceholder": "输入城市名称",
+    "errorMessage": "未找到城市",
+    "humidity": "湿度",
+    "windSpeed": "风速"
+}

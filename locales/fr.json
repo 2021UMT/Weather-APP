@@ -1,0 +1,6 @@
+{
+    "searchPlaceholder": "Entrez le nom de la ville",
+    "errorMessage": "Ville introuvable",
+    "humidity": "Humidité",
+    "windSpeed": "Vitesse du vent"
+}
